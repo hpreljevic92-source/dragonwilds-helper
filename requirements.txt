@@ -1,0 +1,3 @@
+Pillow>=10
+# only needed for tools/match_map.py (experimental in-game map matching test)
+opencv-python>=4.8

@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded game/wiki data (Jagex map art + wiki data): everyone downloads their own with fetch_data.py
+data/
+
+# Personal settings (your pin, last resource, inventory text)
+state.json
+
+# Generated from the map art by tools/make_icon.py
+helper.ico
